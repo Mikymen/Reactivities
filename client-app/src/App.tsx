@@ -25,7 +25,6 @@ function App() {
 
           ) )}
         </List>
-        <Button content="test" />
     </div>
   );
 }
